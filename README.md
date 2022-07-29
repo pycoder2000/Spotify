@@ -1,3 +1,6 @@
+<img src="Rainbow.gif" width="100%">
+<br>
+<br>
 <div align="center">
   <img src="spotify.svg" width="100" align="center">
   <h1>My Spotify</h1>
@@ -10,3 +13,7 @@
     
   </a>
 </div>
+<br>
+<br>
+<img src="Gradients.png" width="100%">
+<img src="Rainbow.gif" width="100%">
